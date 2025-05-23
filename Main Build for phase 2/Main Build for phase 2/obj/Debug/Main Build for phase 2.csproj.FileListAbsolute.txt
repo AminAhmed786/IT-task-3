@@ -1,0 +1,16 @@
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.csproj.AssemblyReference.cache
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.csproj.SuggestedBindingRedirects.cache
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form1.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Properties.Resources.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.csproj.GenerateResource.cache
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.csproj.CoreCompileInputs.cache
+H:\Programming\Main Build for phase 2\Main Build for phase 2\bin\Debug\Main Build for phase 2.exe.config
+H:\Programming\Main Build for phase 2\Main Build for phase 2\bin\Debug\Main Build for phase 2.exe
+H:\Programming\Main Build for phase 2\Main Build for phase 2\bin\Debug\Main Build for phase 2.pdb
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.exe
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main Build for phase 2.pdb
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form2.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form3.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form4.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form5.resources
+H:\Programming\Main Build for phase 2\Main Build for phase 2\obj\Debug\Main_Build_for_phase_2.Form6.resources
